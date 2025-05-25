@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Logs and cache
+*.log
+.cache/
+
+# Static map files
+/static/*.map
+
+# macOS and Linux
+.DS_Store
+*.swp
+
+# VS Code settings
+.vscode/
+
+# Test coverage
+htmlcov/
+coverage.xml
