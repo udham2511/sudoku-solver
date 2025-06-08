@@ -37,3 +37,10 @@ This project is an AI-based **Sudoku Solver** that uses **computer vision** to d
 - NumPy
 - TensorFlow/Keras (for digit recognition)
 - Backtracking Algorithm
+
+## 👨‍💻 Authors
+
+- [@udham2511](https://www.github.com/udham2511)
+
+📬 Connect with me on LinkedIn
+- [@udham2511](https://www.linkedin.com/in/udham2511/)
